@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-server-side-table_demo/static/css/main.684c0c9d.chunk.css",
+    "main.js": "/react-server-side-table_demo/static/js/main.7bbf9881.chunk.js",
+    "main.js.map": "/react-server-side-table_demo/static/js/main.7bbf9881.chunk.js.map",
+    "runtime-main.js": "/react-server-side-table_demo/static/js/runtime-main.e9e2592b.js",
+    "runtime-main.js.map": "/react-server-side-table_demo/static/js/runtime-main.e9e2592b.js.map",
+    "static/css/2.8028d363.chunk.css": "/react-server-side-table_demo/static/css/2.8028d363.chunk.css",
+    "static/js/2.d201af5d.chunk.js": "/react-server-side-table_demo/static/js/2.d201af5d.chunk.js",
+    "static/js/2.d201af5d.chunk.js.map": "/react-server-side-table_demo/static/js/2.d201af5d.chunk.js.map",
+    "index.html": "/react-server-side-table_demo/index.html",
+    "static/css/2.8028d363.chunk.css.map": "/react-server-side-table_demo/static/css/2.8028d363.chunk.css.map",
+    "static/css/main.684c0c9d.chunk.css.map": "/react-server-side-table_demo/static/css/main.684c0c9d.chunk.css.map",
+    "static/js/2.d201af5d.chunk.js.LICENSE.txt": "/react-server-side-table_demo/static/js/2.d201af5d.chunk.js.LICENSE.txt",
+    "static/media/loading.png": "/react-server-side-table_demo/static/media/loading.07c81e06.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9e2592b.js",
+    "static/css/2.8028d363.chunk.css",
+    "static/js/2.d201af5d.chunk.js",
+    "static/css/main.684c0c9d.chunk.css",
+    "static/js/main.7bbf9881.chunk.js"
+  ]
+}
